@@ -15,6 +15,7 @@ namespace ArenaFight
             Console.WriteLine("Completely unsatisfied, you leave...");
             Console.WriteLine();
             Console.WriteLine("Come back at a later date to locate some challengers!");
+            Console.WriteLine("Check the 'Game' branch for the most recent updates.");
             Console.ReadKey();
         }
     }
